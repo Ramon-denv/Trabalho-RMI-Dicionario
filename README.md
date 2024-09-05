@@ -1,4 +1,4 @@
-# Dicionário Distribuído - Java RMI
+## Dicionário Distribuído - Java RMI
 Este projeto demonstra a implementação de um sistema cliente-servidor utilizando Java RMI (Remote Method Invocation) para permitir o gerenciamento de um dicionário distribuído. Múltiplos clientes podem interagir simultaneamente com o servidor para consultar, adicionar ou remover palavras e seus significados.
 
 ## Integrantes
@@ -6,10 +6,9 @@ Este projeto demonstra a implementação de um sistema cliente-servidor utilizan
 * Rodrigo Mendes Peixoto
 
 ## Orientadores
-
 * Cristiano de Macêdo Neto
 
-Estrutura do Projeto
+## Estrutura do Projeto
 O projeto é dividido em três partes principais:
 
 1. Servidor
